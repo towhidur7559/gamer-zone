@@ -69,13 +69,13 @@
         position: relative;
     }
     .main-img{
-        margin-top: 40px;
+        margin-top: 42px;
     }
     .sub-img{
         transform: scale(0.4);
         position: absolute;
         top: 90px;
-        left:-150px;
+        left:-149px;
     
     }
     .sub-img2{
